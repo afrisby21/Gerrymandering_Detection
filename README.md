@@ -7,6 +7,6 @@ their numerical, demographic data mixed models with convolutional, dense, and co
 layers are produced. Data is then labeled using a wide range of metrics and supplied to the models
 for training. The predictive output is binary for most models tested; however, a multiclass model is
 explored as well. Many parameters, metrics, and research questions were assessed and compared to
-achieve the best test accuracy. The highest accuracy achieved was %, which was an encouraging
+achieve the best test accuracy. The highest accuracy achieved was 86%, which was an encouraging
 result for a foundational research project and proved that a machine learning model could be
 leveraged to detect, analyze, and quantify gerrymandering.
